@@ -1,0 +1,5 @@
+# Ejercicio no 1
+
+n=int(input('Ingrese la de altura del siguiente triangulo (número entero positivo): '))
+for i in range(n+1):
+    print('*' * i)
